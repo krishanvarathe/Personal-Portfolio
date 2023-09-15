@@ -150,7 +150,6 @@ margin-bottom: 40px;
     gap: 1.5rem;
 }
 .about-img img{
-    margin-left: 90px;
     max-width: 400px;
     height: auto;
     border-radius: 10px;
@@ -425,6 +424,11 @@ cursor:pointer;
     .home{
         height:500px;
     }
+    .about-img img{
+        line-height: 1.1;
+        height: 100%;
+    }
+    
 }
 @media (max-width:920){
     .about{
