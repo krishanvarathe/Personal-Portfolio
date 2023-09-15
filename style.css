@@ -426,10 +426,7 @@ cursor:pointer;
     }
     .about-img img{
         
-        height: 100%;
-    }
-    .about-text p{
-        line-height: 1.1;
+        height: 80%;
     }
     
 }
