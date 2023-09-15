@@ -424,6 +424,9 @@ cursor:pointer;
     .home{
         height:500px;
     }    
+     .skills-content{
+        grid-template-columns:none;
+    }
 }
 @media (max-width:920){
     .about{
