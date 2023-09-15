@@ -423,12 +423,7 @@ cursor:pointer;
     }
     .home{
         height:500px;
-    }
-    .about-img img{
-        
-        height: 80%;
-    }
-    
+    }    
 }
 @media (max-width:920){
     .about{
