@@ -425,8 +425,11 @@ cursor:pointer;
         height:500px;
     }
     .about-img img{
-        line-height: 1.1;
+        
         height: 100%;
+    }
+    .about-text p{
+        line-height: 1.1;
     }
     
 }
